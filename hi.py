@@ -1,0 +1,1 @@
+print('hello this folder is for testing the gpt-4s api..')  
